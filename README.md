@@ -3,6 +3,6 @@ Data cleaning and dashboard prep for Tableau Makeover Monday 2022/W47: Railroad 
 
 Link to Dashboard: https://public.tableau.com/app/profile/william.radovich/viz/BestRailroads/Dashboard1?publish=yes
 
-![Alt text](dashboard_screenshot.png?raw=true "My Dashboard")
+![Alt text](dashboard_screenshot.jpg?raw=true "My Dashboard")
 
-Makeover Monday source: https://data.world/makeovermonday/2022w47
+Makeover Monday page and data source: https://data.world/makeovermonday/2022w47
